@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Nexus Tag</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- Navigation Bar -->
+  <nav>
+    <div class="logo">NEXUS TAG</div>
+    <div class="nav-links">
+      <a href="index.html">Home</a>
+      <a href="rules.html">Rules</a>
+    </div>
+  </nav>
+
+  <!-- Hero Section -->
+  <header class="hero">
+    <h1>Welcome to Nexus Tag</h1>
+    <p>
+      A fast-paced VR tag experience inspired by Gorilla Tag.  
+      Move fast, think smarter, and respect the community.
+    </p>
+    <a href="rules.html" class="main-button">View Game Rules</a>
+  </header>
+
+  <!-- About Section -->
+  <section class="section">
+    <h2>What is Nexus Tag?</h2>
+    <p>
+      Nexus Tag is a competitive movement-based VR game where players use
+      their arms to move, escape, chase, and outplay others in dynamic maps.
+      The game focuses on skill-based movement, fair play, and a welcoming
+      community for everyone.
+    </p>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <p>
+      Contact the creator:  
+      <a href="mailto:sharpzfta12@gmail.com">sharpzfta12@gmail.com</a>
+    </p>
+    <p>© 2026 Nexus Tag</p>
+  </footer>
+
+</body>
+</html>

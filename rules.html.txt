@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Nexus Tag — Rules</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- Navigation Bar -->
+  <nav>
+    <div class="logo">NEXUS TAG</div>
+    <div class="nav-links">
+      <a href="index.html">Home</a>
+      <a href="rules.html">Rules</a>
+    </div>
+  </nav>
+
+  <section class="section">
+    <h1>Community Rules</h1>
+    <p class="rules-intro">
+      To keep Nexus Tag fun, fair, and welcoming for everyone, all players
+      must follow the rules listed below. Failure to follow these rules may
+      result in warnings, temporary bans, or permanent removal from the game.
+    </p>
+
+    <h2>1. Respect All Players</h2>
+    <p>
+      Treat every player with respect. Harassment, bullying, targeting,
+      threatening behavior, or encouraging harm toward others is strictly
+      prohibited. Nexus Tag is a community-driven game, and respect is required
+      at all times.
+    </p>
+
+    <h2>2. No Profanity or Offensive Language</h2>
+    <p>
+      Do not use profanity, hate speech, slurs, or offensive language of any kind.
+      This includes language related to race, gender, sexuality, religion,
+      disability, or nationality. Keep voice chat and text communication clean.
+    </p>
+
+    <h2>3. No Cheating or Exploits</h2>
+    <p>
+      Cheating, hacking, exploiting bugs, using mods that provide unfair
+      advantages, or manipulating game mechanics is not allowed. If you find
+      a bug, report it instead of abusing it.
+    </p>
+
+    <h2>4. Play Fair</h2>
+    <p>
+      Do not intentionally ruin matches for others. This includes spawn camping,
+      griefing, blocking players, or deliberately interfering with gameplay
+      to cause frustration.
+    </p>
+
+    <h2>5. No Impersonation</h2>
+    <p>
+      Do not impersonate developers, moderators, or other players. Pretending
+      to have authority you do not have will result in punishment.
+    </p>
+
+    <h2>6. Follow VR Safety Guidelines</h2>
+    <p>
+      Be aware of your surroundings while playing. Nexus Tag is not responsible
+      for injuries caused by unsafe play environments. Always play responsibly.
+    </p>
+
+    <h2>7. Reporting Issues</h2>
+    <p>
+      If you experience rule-breaking behavior or technical issues, report it
+      to the creator. Do not retaliate or escalate situations in-game.
+    </p>
+
+    <h2>Contact</h2>
+    <p>
+      For questions, reports, or concerns, contact the owner and creator at:  
+      <strong>sharpzfta12@gmail.com</strong>
+    </p>
+  </section>
+
+  <footer>
+    <p>© 2026 Nexus Tag</p>
+  </footer>
+
+</body>
+</html>

@@ -1,0 +1,109 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "Segoe UI", Arial, sans-serif;
+  background: #0b0b12;
+  color: #ffffff;
+}
+
+/* Navigation Bar */
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 40px;
+  background: #0f0f1a;
+  border-bottom: 1px solid #1f1f3a;
+}
+
+.logo {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #7c7cff;
+}
+
+.nav-links a {
+  margin-left: 20px;
+  color: #ffffff;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.nav-links a:hover {
+  color: #7c7cff;
+}
+
+/* Hero Section */
+.hero {
+  text-align: center;
+  padding: 120px 20px;
+  background: radial-gradient(circle at top, #1a1a3d, #0b0b12);
+}
+
+.hero h1 {
+  font-size: 3.5rem;
+  margin-bottom: 20px;
+}
+
+.hero p {
+  max-width: 700px;
+  margin: auto;
+  font-size: 1.2rem;
+  opacity: 0.9;
+}
+
+.main-button {
+  display: inline-block;
+  margin-top: 40px;
+  padding: 16px 36px;
+  background: #7c7cff;
+  color: black;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 10px;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.main-button:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 10px 30px rgba(124,124,255,0.4);
+}
+
+/* Sections */
+.section {
+  max-width: 900px;
+  margin: auto;
+  padding: 80px 20px;
+}
+
+.section h1,
+.section h2 {
+  color: #7c7cff;
+}
+
+.section p {
+  line-height: 1.7;
+  opacity: 0.95;
+}
+
+.rules-intro {
+  font-size: 1.1rem;
+  margin-bottom: 40px;
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  padding: 30px 20px;
+  background: #0f0f1a;
+  border-top: 1px solid #1f1f3a;
+  font-size: 0.9rem;
+}
+
+footer a {
+  color: #7c7cff;
+  text-decoration: none;
+}
